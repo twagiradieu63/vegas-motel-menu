@@ -1,2 +1,2 @@
 # vegas-motel-menu
-Digital Menu
+Menu for Vegas Motel restaurant
